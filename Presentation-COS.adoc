@@ -32,6 +32,7 @@ Expérimentation 2017 :
 ** Moment de convivialité et d'échanges très apprécié
 * Points de vigilance :
 ** Spécificité de Aménagement au DAE
-** Mise en oeuvre de l'évaluation des compétences 
+** Mise en oeuvre de l'évaluation des compétences
+* essai d'ajout
 
 == Plan à moyen termes
