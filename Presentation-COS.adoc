@@ -33,6 +33,16 @@ Expérimentation 2017 :
 * Points de vigilance :
 ** Spécificité de Aménagement au DAE
 ** Mise en oeuvre de l'évaluation des compétences
-* essai d'ajout
+** Intégration dans PolySkill
+
 
 == Plan à moyen termes
+
+* Mise en oeuvre de l'uniformisation des stages
+** sur 1 semaine
+** sur 1 seul site
+** sur 1 seul modèle d'évaluation des compétences
+
+* Convention de partenariat
+** Standardiser 2-3 partenaires privilégiés par spécialité
+** Développer davantage les partenariats réseau
