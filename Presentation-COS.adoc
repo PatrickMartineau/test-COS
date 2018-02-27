@@ -1,0 +1,37 @@
+= Relations aux professionnels
+:sectnums:
+:imagesdir: ./images
+
+Les relations aux professionnels à Polytech Tours héritent de :
+
+* la diversité des actions relevant des relations aux professionnels
+* les pratiques différentes des départements
+* la multiplicité des personnes impliquées à différents titres
+
+== Le point début 2017
+
+.Un point sur la diversité des Relations
+image::RelationsEntreprises.jpeg[CarteRelationsEntreprises,500,300]
+
+== Objectifs à courts termes
+
+Les objectifs fixés sont de créer une dynamique permettant de fédérer les pratiques de manière à unifier notre relation aux entreprises.
+
+Le plus simple est de s'attaquer aux soutenances de stages de 5ème année.
+Ces soutenances amènent de nombreux professionnels dans nos murs.
+Le premier objectif, et intérêt pour les collègues, est d'améliorer l'accueil qui leur est réservé.
+
+Expérimentation 2017 :
+
+* 3 mises en oeuvre sur les 3 sites :
+** Conclusion -> utiliser un seul site regroupant l'ensemble des soutenances des différentes spécialités
+* Accueil unique :
+** Mutualisation des personnels
+** Image de Polytech Tours améliorée
+* Buffet le midi :
+** Moment de convivialité et d'échanges très apprécié
+* Points de vigilance :
+** Spécificité de Aménagement au DAE
+** Mise en oeuvre de l'évaluation des compétences 
+
+== Plan à moyen termes
