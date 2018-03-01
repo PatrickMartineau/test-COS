@@ -10,7 +10,6 @@ Les relations aux professionnels à Polytech Tours héritent de :
 * la multiplicité des personnes impliquées à différents titres
 
 
-
 == Le point début 2017
 
 .Un point sur la diversité des Relations
@@ -18,7 +17,9 @@ image::RelationsEntreprises.jpeg[CarteRelationsEntreprises,500,300]
 
 * Le forum des entreprises organisé dans le cadre de la semaine de l'Insertion de l'université est déjà regroupé sur un seul site.
 
-CAUTION Il est nécessaire de rééquilibrer les domaines des entreprises représentées.
+// CAUTION Il est nécessaire de rééquilibrer les domaines des entreprises représentées.
+
+* La collecte de la taxe d'apprentissage, centralisée par le secrétariat de Polytech, est redistribuée en interne sur des critères historiques des partenariats
 
 == Objectifs à courts termes
 
@@ -32,11 +33,14 @@ Expérimentation 2017 :
 
 * 3 mises en oeuvre sur les 3 sites :
 ** Conclusion -> utiliser un seul site regroupant l'ensemble des soutenances des différentes spécialités
+
 * Accueil unique :
 ** Mutualisation des personnels
 ** Image de Polytech Tours améliorée
+
 * Buffet le midi :
 ** Moment très apprécié de convivialité et d'échanges
+
 * Points de vigilance :
 ** Spécificité de Aménagement au DAE
 ** Mise en oeuvre de l'évaluation des compétences
@@ -63,7 +67,16 @@ Cette année un seul mailing a été réalisé au nom de Polytech Tours.
 C'est déjà le cas car le versement est réalisé sur le compte de l'université qui nous reverse ce qui nous est destiné.
 ** Centraliser la politique d'investissement.
 
+* Un CRM adapté
+** La diversité des interlocuteurs impliqués dans les relaions avec les entreprises rend difficile un suivi précis des relations avec une entreprise en particulier
+** CRM open, Edu'Net, outil interne (projet collectif)
+
 
 * Améliorer l'Insertion Professionnelle
 ** Contrats de Professionnalisation - en particulier pour le DAE
 ** Développer l'entrepreneuriat
+
+== Conclusion
+
+ * Fédérer la synergie en mettant en place des outils simples et fonctionnels.
+ * Tirer partie des points forts de chacun.
