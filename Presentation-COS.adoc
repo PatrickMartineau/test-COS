@@ -9,6 +9,8 @@ Les relations aux professionnels à Polytech Tours héritent de :
 * les pratiques différentes des départements
 * la multiplicité des personnes impliquées à différents titres
 
+
+
 == Le point début 2017
 
 .Un point sur la diversité des Relations
@@ -16,6 +18,7 @@ image::RelationsEntreprises.jpeg[CarteRelationsEntreprises,500,300]
 
 * Le forum des entreprises organisé dans le cadre de la semaine de l'Insertion de l'université est déjà regroupé sur un seul site.
 
+CAUTION Il est nécessaire de rééquilibrer les domaines des entreprises représentées.
 
 == Objectifs à courts termes
 
@@ -33,7 +36,7 @@ Expérimentation 2017 :
 ** Mutualisation des personnels
 ** Image de Polytech Tours améliorée
 * Buffet le midi :
-** Moment de convivialité et d'échanges très apprécié
+** Moment très apprécié de convivialité et d'échanges
 * Points de vigilance :
 ** Spécificité de Aménagement au DAE
 ** Mise en oeuvre de l'évaluation des compétences
@@ -43,9 +46,9 @@ Expérimentation 2017 :
 == Plan à moyen termes
 
 * Mise en oeuvre de l'uniformisation des stages
-** sur 1 semaine
-** sur 1 seul site
-** sur 1 seul modèle d'évaluation des compétences
+** [X] sur 1 semaine
+** [X] sur 1 seul site
+** [ ] sur 1 seul modèle d'évaluation des compétences
 
 * Convention de partenariat
 ** Standardiser 2-3 partenaires privilégiés par spécialité.
