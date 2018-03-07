@@ -1,5 +1,6 @@
 = Relations aux professionnels
 Patrick Martineau <patrick.martineau@univ-tours.fr>
+v1.0, 2018-03-07
 :sectnums:
 :imagesdir: ./images
 
@@ -48,9 +49,12 @@ Expérimentation 2017 :
 ** Mise en oeuvre de l'évaluation des compétences
 ** Intégration dans PolySkill
 
+.Pour 2018, point sur l'organisation des soutenances de stages
+image::Stages5A.jpeg[PointStages5A,500,300]
+
 === La plaquette de communication
 
-Deuxième Réalisation :
+Deuxième réalisation :
 
 * Plaquette de promotion des relations aux professionnels
 * Uniformisation de la communication
@@ -74,6 +78,7 @@ Chacun oeuvre dans un souci d'efficacité sans souci de l'intérêt collectif.
 ** Standardiser 2-3 partenaires privilégiés par spécialité.
 Cela veut dire une dizaine au niveau de Polytech Tours.
 ** Développer davantage les partenariats réseau
+** Améliorer le suivi de ces conventions
 
 * Taxe d'apprentissage
 ** Unifier la campagne de communication.
