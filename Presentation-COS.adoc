@@ -45,7 +45,7 @@ Expérimentation 2017 :
 ** Moment très apprécié de convivialité et d'échanges
 
 * Points de vigilance :
-** Spécificité de Aménagement au DAE
+** Spécificité de l'Aménagement au DAE
 ** Mise en oeuvre de l'évaluation des compétences
 ** Intégration dans PolySkill
 
@@ -69,33 +69,40 @@ Chacun oeuvre dans un souci d'efficacité sans souci de l'intérêt collectif.
 
 == Plan à moyen termes
 
-* Mise en oeuvre de l'uniformisation des stages
-** [X] sur 1 semaine
-** [X] sur 1 seul site
-** [ ] sur 1 seul modèle d'évaluation des compétences
+=== Mise en oeuvre de l'uniformisation des stages
 
-* Convention de partenariat
-** Standardiser 2-3 partenaires privilégiés par spécialité.
+* [*] sur 1 semaine
+* [*] sur 1 seul site
+* [ ] sur 1 seul modèle d'évaluation des compétences
+
+=== Convention de partenariat
+
+* [ ] Standardiser 2-3 partenaires privilégiés par spécialité.
 Cela veut dire une dizaine au niveau de Polytech Tours.
-** Développer davantage les partenariats réseau
-** Améliorer le suivi de ces conventions
+* [*] Développer davantage les partenariats réseau
+* [ ] Améliorer le suivi de ces conventions
 
-* Taxe d'apprentissage
-** Unifier la campagne de communication.
+=== Taxe d'apprentissage
+
+* [*] Unifier la campagne de communication.
 L'ensemble des listings d'entreprises gérés par les départements ont été regroupés.
 Cette année un seul mailing a été réalisé au nom de Polytech Tours.
-** Centraliser la collecte.
+* [*] Centraliser la collecte.
 C'est déjà le cas car le versement est réalisé sur le compte de l'université qui nous reverse ce qui nous est destiné.
-** Centraliser la politique d'investissement.
+* [ ] Centraliser la politique d'investissement.
 
-* Un CRM adapté
-** La diversité des interlocuteurs impliqués dans les relaions avec les entreprises rend difficile un suivi précis des relations avec une entreprise en particulier
-** CRM open, Edu'Net, outil interne (projet collectif)
+=== Un CRM adapté
 
+ La diversité des interlocuteurs impliqués dans les relaions avec les entreprises rend difficile un suivi précis des relations avec une entreprise en particulier
+ CRM open, Edu'Net, outil interne (projet collectif)
 
-* Améliorer l'Insertion Professionnelle
-** Contrats de Professionnalisation - en particulier pour le DAE
-** Développer l'entrepreneuriat
+* [*] Un site Web interne (Workflow, serveur Web + BDD, supervision)
+
+=== Améliorer l'Insertion Professionnelle
+
+* [*] Contrats de Professionnalisation - en particulier pour le DAE
+* [*] Standardisation des projets étudiants sur des sujets proposés par des entreprises locales
+* [ ] Développer l'entrepreneuriat
 
 == Conclusion
 
