@@ -101,8 +101,27 @@ Besoin d'un CRM open, Edu'Net, outil interne (projet collectif)
 === Améliorer l'Insertion Professionnelle
 
 * [*] Contrats de Professionnalisation - en particulier pour le DAE
-* [*] Standardisation des projets étudiants sur des sujets proposés par des entreprises locales
+* [*] Les projets étudiants sur des sujets proposés par des entreprises locales sont de plus en plus courants
 * [ ] Développer l'entrepreneuriat
+
+== Les attentes des partenaires
+
+Pour les entreprises
+
+* Stagiaires
+* Alternants
+* POC (projets étudiants)
+
+Pour les institutions
+
+* Partenaire privilégié capable d'investir de l'énergie dans de nouveaux projets
+
+Les attentes de l'Ecole
+
+* Un regard extérieur / une aide sur notre gouvernance
+* Un investissement de vacataires dans nos formations - dont l'encadrement de projets issus des entreprises
+
+
 
 == Conclusion
 
