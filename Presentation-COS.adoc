@@ -93,8 +93,8 @@ C'est déjà le cas car le versement est réalisé sur le compte de l'universit�
 
 === Un CRM adapté
 
- La diversité des interlocuteurs impliqués dans les relaions avec les entreprises rend difficile un suivi précis des relations avec une entreprise en particulier
- CRM open, Edu'Net, outil interne (projet collectif)
+La diversité des interlocuteurs impliqués dans les relaions avec les entreprises rend difficile un suivi précis des relations avec une entreprise en particulier.
+Besoin d'un CRM open, Edu'Net, outil interne (projet collectif)
 
 * [*] Un site Web interne (Workflow, serveur Web + BDD, supervision)
 
